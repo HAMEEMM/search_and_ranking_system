@@ -1,0 +1,18 @@
+{
+  "heart": [
+    "heart attack",
+    "heart disease",
+    "heart doctor",
+    "heart medication",
+    "heart surgery"
+  ],
+  "diabetes": [
+    "diabetes diet",
+    "diabetes exercise",
+    "diabetes medication"
+  ],
+  "lung": [
+    "lung disease",
+    "lung treatment"
+  ]
+}

@@ -1,0 +1,201 @@
+doc_id,title,content,freshness,tag
+1,Glucose Monitoring,glucose monitoring information and guidance for diabetes patients,0.88,diabetes
+2,Sleep Health,sleep health information and guidance for mental health patients,0.85,mental_health
+3,Exercise for Beginners,exercise for beginners information and guidance for exercise patients,0.53,exercise
+4,Preventive Care,preventive care information and guidance for general medicine patients,0.67,general_medicine
+5,Nutrition Basics,nutrition basics information and guidance for nutrition patients,0.82,nutrition
+6,Insulin Basics,insulin basics information and guidance for diabetes patients,0.84,diabetes
+7,Asthma Treatment,asthma treatment information and guidance for pulmonology patients,0.41,pulmonology
+8,Pediatric Nutrition,pediatric nutrition information and guidance for pediatrics patients,0.67,pediatrics
+9,Mental Wellness,mental wellness information and guidance for mental health patients,0.85,mental_health
+10,Diet Planning,diet planning information and guidance for nutrition patients,0.81,nutrition
+11,Hypertension Guide,hypertension guide information and guidance for cardiology patients,0.86,cardiology
+12,Heart Disease Prevention,heart disease prevention information and guidance for cardiology patients,0.77,cardiology
+13,Respiratory Health,respiratory health information and guidance for pulmonology patients,0.43,pulmonology
+14,Diabetes Diet Guide,diabetes diet guide information and guidance for diabetes patients,0.44,diabetes
+15,Diabetes Diet Guide,diabetes diet guide information and guidance for diabetes patients,0.67,diabetes
+16,Diet Planning,diet planning information and guidance for nutrition patients,0.87,nutrition
+17,Asthma Treatment,asthma treatment information and guidance for pulmonology patients,0.72,pulmonology
+18,Mental Wellness,mental wellness information and guidance for mental health patients,0.82,mental_health
+19,Diabetes Diet Guide,diabetes diet guide information and guidance for diabetes patients,0.77,diabetes
+20,COPD Care,copd care information and guidance for pulmonology patients,0.6,pulmonology
+21,Heart Specialist Guide,heart specialist guide information and guidance for cardiology patients,0.52,cardiology
+22,Heart Disease Prevention,heart disease prevention information and guidance for cardiology patients,0.88,cardiology
+23,Workout Basics,workout basics information and guidance for exercise patients,0.64,exercise
+24,Primary Care Guide,primary care guide information and guidance for general medicine patients,0.55,general_medicine
+25,Pediatric Care Basics,pediatric care basics information and guidance for pediatrics patients,0.84,pediatrics
+26,Medical Basics,medical basics information and guidance for general medicine patients,0.46,general_medicine
+27,Fever in Children,fever in children information and guidance for pediatrics patients,0.55,pediatrics
+28,Asthma Treatment,asthma treatment information and guidance for pulmonology patients,0.73,pulmonology
+29,Kids Health Guide,kids health guide information and guidance for pediatrics patients,0.56,pediatrics
+30,Daily Fitness Guide,daily fitness guide information and guidance for exercise patients,0.8,exercise
+31,Pediatric Care Basics,pediatric care basics information and guidance for pediatrics patients,0.67,pediatrics
+32,Wellness Check,wellness check information and guidance for general medicine patients,0.53,general_medicine
+33,Asthma Treatment,asthma treatment information and guidance for pulmonology patients,0.5,pulmonology
+34,Managing Blood Sugar,managing blood sugar information and guidance for diabetes patients,0.62,diabetes
+35,Lung Disease Guide,lung disease guide information and guidance for pulmonology patients,0.61,pulmonology
+36,Pediatric Nutrition,pediatric nutrition information and guidance for pediatrics patients,0.75,pediatrics
+37,Heart Medication,heart medication information and guidance for cardiology patients,0.58,cardiology
+38,Cardio Exercise,cardio exercise information and guidance for exercise patients,0.72,exercise
+39,Workout Basics,workout basics information and guidance for exercise patients,0.57,exercise
+40,Sleep Health,sleep health information and guidance for mental health patients,0.56,mental_health
+41,Mindfulness Guide,mindfulness guide information and guidance for mental health patients,0.53,mental_health
+42,Asthma Treatment,asthma treatment information and guidance for pulmonology patients,0.65,pulmonology
+43,Diet Planning,diet planning information and guidance for nutrition patients,0.6,nutrition
+44,Exercise for Beginners,exercise for beginners information and guidance for exercise patients,0.47,exercise
+45,Stress Management,stress management information and guidance for mental health patients,0.69,mental_health
+46,Heart Medication,heart medication information and guidance for cardiology patients,0.73,cardiology
+47,Asthma Treatment,asthma treatment information and guidance for pulmonology patients,0.41,pulmonology
+48,Strength Training,strength training information and guidance for exercise patients,0.48,exercise
+49,Kids Health Guide,kids health guide information and guidance for pediatrics patients,0.41,pediatrics
+50,Respiratory Health,respiratory health information and guidance for pulmonology patients,0.67,pulmonology
+51,Diet Planning,diet planning information and guidance for nutrition patients,0.88,nutrition
+52,Kids Health Guide,kids health guide information and guidance for pediatrics patients,0.44,pediatrics
+53,Mindfulness Guide,mindfulness guide information and guidance for mental health patients,0.63,mental_health
+54,Pediatric Care Basics,pediatric care basics information and guidance for pediatrics patients,0.7,pediatrics
+55,Managing Blood Sugar,managing blood sugar information and guidance for diabetes patients,0.71,diabetes
+56,Asthma Treatment,asthma treatment information and guidance for pulmonology patients,0.65,pulmonology
+57,Childhood Vaccines,childhood vaccines information and guidance for pediatrics patients,0.68,pediatrics
+58,Respiratory Health,respiratory health information and guidance for pulmonology patients,0.84,pulmonology
+59,Primary Care Guide,primary care guide information and guidance for general medicine patients,0.64,general_medicine
+60,Nutrition Basics,nutrition basics information and guidance for nutrition patients,0.75,nutrition
+61,Glucose Monitoring,glucose monitoring information and guidance for diabetes patients,0.59,diabetes
+62,Heart Disease Prevention,heart disease prevention information and guidance for cardiology patients,0.48,cardiology
+63,Respiratory Health,respiratory health information and guidance for pulmonology patients,0.71,pulmonology
+64,Glucose Monitoring,glucose monitoring information and guidance for diabetes patients,0.86,diabetes
+65,Heart Specialist Guide,heart specialist guide information and guidance for cardiology patients,0.82,cardiology
+66,Heart Medication,heart medication information and guidance for cardiology patients,0.59,cardiology
+67,Balanced Diet Tips,balanced diet tips information and guidance for nutrition patients,0.85,nutrition
+68,Kids Health Guide,kids health guide information and guidance for pediatrics patients,0.4,pediatrics
+69,Stress Management,stress management information and guidance for mental health patients,0.69,mental_health
+70,Glucose Monitoring,glucose monitoring information and guidance for diabetes patients,0.75,diabetes
+71,Cardio Exercise,cardio exercise information and guidance for exercise patients,0.67,exercise
+72,Hypertension Guide,hypertension guide information and guidance for cardiology patients,0.78,cardiology
+73,Diabetes Diet Guide,diabetes diet guide information and guidance for diabetes patients,0.71,diabetes
+74,Diet Planning,diet planning information and guidance for nutrition patients,0.5,nutrition
+75,Preventive Care,preventive care information and guidance for general medicine patients,0.73,general_medicine
+76,Preventive Care,preventive care information and guidance for general medicine patients,0.52,general_medicine
+77,Vitamin Guide,vitamin guide information and guidance for nutrition patients,0.65,nutrition
+78,Strength Training,strength training information and guidance for exercise patients,0.86,exercise
+79,Cardio Exercise,cardio exercise information and guidance for exercise patients,0.78,exercise
+80,Diet Planning,diet planning information and guidance for nutrition patients,0.75,nutrition
+81,Daily Fitness Guide,daily fitness guide information and guidance for exercise patients,0.41,exercise
+82,Glucose Monitoring,glucose monitoring information and guidance for diabetes patients,0.48,diabetes
+83,Kids Health Guide,kids health guide information and guidance for pediatrics patients,0.59,pediatrics
+84,Primary Care Guide,primary care guide information and guidance for general medicine patients,0.74,general_medicine
+85,Vitamin Guide,vitamin guide information and guidance for nutrition patients,0.62,nutrition
+86,Mindfulness Guide,mindfulness guide information and guidance for mental health patients,0.82,mental_health
+87,Sleep Health,sleep health information and guidance for mental health patients,0.68,mental_health
+88,Health Screening,health screening information and guidance for general medicine patients,0.74,general_medicine
+89,Balanced Diet Tips,balanced diet tips information and guidance for nutrition patients,0.45,nutrition
+90,Heart Specialist Guide,heart specialist guide information and guidance for cardiology patients,0.67,cardiology
+91,Asthma Treatment,asthma treatment information and guidance for pulmonology patients,0.58,pulmonology
+92,Diabetes Diet Guide,diabetes diet guide information and guidance for diabetes patients,0.86,diabetes
+93,Kids Health Guide,kids health guide information and guidance for pediatrics patients,0.73,pediatrics
+94,Heart Medication,heart medication information and guidance for cardiology patients,0.56,cardiology
+95,Diet Planning,diet planning information and guidance for nutrition patients,0.75,nutrition
+96,Heart Disease Prevention,heart disease prevention information and guidance for cardiology patients,0.49,cardiology
+97,Balanced Diet Tips,balanced diet tips information and guidance for nutrition patients,0.67,nutrition
+98,Anxiety Care,anxiety care information and guidance for mental health patients,0.53,mental_health
+99,Diet Planning,diet planning information and guidance for nutrition patients,0.57,nutrition
+100,COPD Care,copd care information and guidance for pulmonology patients,0.89,pulmonology
+101,Diabetes Diet Guide,diabetes diet guide information and guidance for diabetes patients,0.86,diabetes
+102,Balanced Diet Tips,balanced diet tips information and guidance for nutrition patients,0.87,nutrition
+103,Hypertension Guide,hypertension guide information and guidance for cardiology patients,0.8,cardiology
+104,Balanced Diet Tips,balanced diet tips information and guidance for nutrition patients,0.76,nutrition
+105,Sleep Health,sleep health information and guidance for mental health patients,0.67,mental_health
+106,Healthy Eating,healthy eating information and guidance for nutrition patients,0.54,nutrition
+107,Cardio Exercise,cardio exercise information and guidance for exercise patients,0.46,exercise
+108,Mental Wellness,mental wellness information and guidance for mental health patients,0.48,mental_health
+109,Insulin Basics,insulin basics information and guidance for diabetes patients,0.86,diabetes
+110,Workout Basics,workout basics information and guidance for exercise patients,0.43,exercise
+111,Managing Blood Sugar,managing blood sugar information and guidance for diabetes patients,0.63,diabetes
+112,Exercise for Beginners,exercise for beginners information and guidance for exercise patients,0.73,exercise
+113,Cardio Exercise,cardio exercise information and guidance for exercise patients,0.8,exercise
+114,Breathing Exercises,breathing exercises information and guidance for pulmonology patients,0.8,pulmonology
+115,COPD Care,copd care information and guidance for pulmonology patients,0.85,pulmonology
+116,Wellness Check,wellness check information and guidance for general medicine patients,0.67,general_medicine
+117,Stress Management,stress management information and guidance for mental health patients,0.44,mental_health
+118,Insulin Basics,insulin basics information and guidance for diabetes patients,0.42,diabetes
+119,Diabetes Exercise Tips,diabetes exercise tips information and guidance for diabetes patients,0.65,diabetes
+120,Pediatric Nutrition,pediatric nutrition information and guidance for pediatrics patients,0.86,pediatrics
+121,Diabetes Exercise Tips,diabetes exercise tips information and guidance for diabetes patients,0.53,diabetes
+122,Healthy Eating,healthy eating information and guidance for nutrition patients,0.7,nutrition
+123,Health Screening,health screening information and guidance for general medicine patients,0.57,general_medicine
+124,COPD Care,copd care information and guidance for pulmonology patients,0.66,pulmonology
+125,Respiratory Health,respiratory health information and guidance for pulmonology patients,0.57,pulmonology
+126,Workout Basics,workout basics information and guidance for exercise patients,0.82,exercise
+127,Mindfulness Guide,mindfulness guide information and guidance for mental health patients,0.66,mental_health
+128,Stress Management,stress management information and guidance for mental health patients,0.73,mental_health
+129,Glucose Monitoring,glucose monitoring information and guidance for diabetes patients,0.8,diabetes
+130,Breathing Exercises,breathing exercises information and guidance for pulmonology patients,0.42,pulmonology
+131,Anxiety Care,anxiety care information and guidance for mental health patients,0.66,mental_health
+132,Mindfulness Guide,mindfulness guide information and guidance for mental health patients,0.6,mental_health
+133,Diabetes Exercise Tips,diabetes exercise tips information and guidance for diabetes patients,0.79,diabetes
+134,Cardiac Health,cardiac health information and guidance for cardiology patients,0.59,cardiology
+135,Health Screening,health screening information and guidance for general medicine patients,0.7,general_medicine
+136,Wellness Check,wellness check information and guidance for general medicine patients,0.79,general_medicine
+137,Fever in Children,fever in children information and guidance for pediatrics patients,0.62,pediatrics
+138,Mindfulness Guide,mindfulness guide information and guidance for mental health patients,0.65,mental_health
+139,Managing Blood Sugar,managing blood sugar information and guidance for diabetes patients,0.87,diabetes
+140,Primary Care Guide,primary care guide information and guidance for general medicine patients,0.89,general_medicine
+141,Anxiety Care,anxiety care information and guidance for mental health patients,0.89,mental_health
+142,Childhood Vaccines,childhood vaccines information and guidance for pediatrics patients,0.62,pediatrics
+143,Balanced Diet Tips,balanced diet tips information and guidance for nutrition patients,0.63,nutrition
+144,Diabetes Diet Guide,diabetes diet guide information and guidance for diabetes patients,0.48,diabetes
+145,Heart Specialist Guide,heart specialist guide information and guidance for cardiology patients,0.79,cardiology
+146,Medical Basics,medical basics information and guidance for general medicine patients,0.53,general_medicine
+147,Managing Blood Sugar,managing blood sugar information and guidance for diabetes patients,0.5,diabetes
+148,Heart Medication,heart medication information and guidance for cardiology patients,0.42,cardiology
+149,Pediatric Care Basics,pediatric care basics information and guidance for pediatrics patients,0.42,pediatrics
+150,Balanced Diet Tips,balanced diet tips information and guidance for nutrition patients,0.62,nutrition
+151,Diabetes Diet Guide,diabetes diet guide information and guidance for diabetes patients,0.77,diabetes
+152,Healthy Eating,healthy eating information and guidance for nutrition patients,0.89,nutrition
+153,Asthma Treatment,asthma treatment information and guidance for pulmonology patients,0.85,pulmonology
+154,Healthy Eating,healthy eating information and guidance for nutrition patients,0.44,nutrition
+155,Breathing Exercises,breathing exercises information and guidance for pulmonology patients,0.68,pulmonology
+156,Pediatric Nutrition,pediatric nutrition information and guidance for pediatrics patients,0.83,pediatrics
+157,Sleep Health,sleep health information and guidance for mental health patients,0.64,mental_health
+158,Asthma Treatment,asthma treatment information and guidance for pulmonology patients,0.56,pulmonology
+159,Wellness Check,wellness check information and guidance for general medicine patients,0.81,general_medicine
+160,Diet Planning,diet planning information and guidance for nutrition patients,0.6,nutrition
+161,Breathing Exercises,breathing exercises information and guidance for pulmonology patients,0.5,pulmonology
+162,Heart Disease Prevention,heart disease prevention information and guidance for cardiology patients,0.58,cardiology
+163,Mindfulness Guide,mindfulness guide information and guidance for mental health patients,0.66,mental_health
+164,Cardiac Health,cardiac health information and guidance for cardiology patients,0.82,cardiology
+165,Cardio Exercise,cardio exercise information and guidance for exercise patients,0.79,exercise
+166,Stress Management,stress management information and guidance for mental health patients,0.62,mental_health
+167,Hypertension Guide,hypertension guide information and guidance for cardiology patients,0.46,cardiology
+168,Workout Basics,workout basics information and guidance for exercise patients,0.88,exercise
+169,Cardiac Health,cardiac health information and guidance for cardiology patients,0.53,cardiology
+170,Cardiac Health,cardiac health information and guidance for cardiology patients,0.78,cardiology
+171,Managing Blood Sugar,managing blood sugar information and guidance for diabetes patients,0.56,diabetes
+172,Heart Disease Prevention,heart disease prevention information and guidance for cardiology patients,0.89,cardiology
+173,Lung Disease Guide,lung disease guide information and guidance for pulmonology patients,0.83,pulmonology
+174,Primary Care Guide,primary care guide information and guidance for general medicine patients,0.85,general_medicine
+175,Daily Fitness Guide,daily fitness guide information and guidance for exercise patients,0.74,exercise
+176,Healthy Eating,healthy eating information and guidance for nutrition patients,0.87,nutrition
+177,Daily Fitness Guide,daily fitness guide information and guidance for exercise patients,0.68,exercise
+178,Glucose Monitoring,glucose monitoring information and guidance for diabetes patients,0.52,diabetes
+179,Diet Planning,diet planning information and guidance for nutrition patients,0.56,nutrition
+180,Nutrition Basics,nutrition basics information and guidance for nutrition patients,0.68,nutrition
+181,Heart Medication,heart medication information and guidance for cardiology patients,0.88,cardiology
+182,Daily Fitness Guide,daily fitness guide information and guidance for exercise patients,0.51,exercise
+183,Vitamin Guide,vitamin guide information and guidance for nutrition patients,0.61,nutrition
+184,Breathing Exercises,breathing exercises information and guidance for pulmonology patients,0.67,pulmonology
+185,Kids Health Guide,kids health guide information and guidance for pediatrics patients,0.66,pediatrics
+186,Glucose Monitoring,glucose monitoring information and guidance for diabetes patients,0.86,diabetes
+187,Lung Disease Guide,lung disease guide information and guidance for pulmonology patients,0.81,pulmonology
+188,Medical Basics,medical basics information and guidance for general medicine patients,0.42,general_medicine
+189,Heart Medication,heart medication information and guidance for cardiology patients,0.45,cardiology
+190,Healthy Eating,healthy eating information and guidance for nutrition patients,0.87,nutrition
+191,Daily Fitness Guide,daily fitness guide information and guidance for exercise patients,0.55,exercise
+192,Sleep Health,sleep health information and guidance for mental health patients,0.55,mental_health
+193,Childhood Vaccines,childhood vaccines information and guidance for pediatrics patients,0.86,pediatrics
+194,Wellness Check,wellness check information and guidance for general medicine patients,0.85,general_medicine
+195,Heart Medication,heart medication information and guidance for cardiology patients,0.55,cardiology
+196,Daily Fitness Guide,daily fitness guide information and guidance for exercise patients,0.76,exercise
+197,Sleep Health,sleep health information and guidance for mental health patients,0.7,mental_health
+198,Diabetes Exercise Tips,diabetes exercise tips information and guidance for diabetes patients,0.61,diabetes
+199,Strength Training,strength training information and guidance for exercise patients,0.86,exercise
+200,Heart Specialist Guide,heart specialist guide information and guidance for cardiology patients,0.62,cardiology

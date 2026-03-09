@@ -1,0 +1,15 @@
+heart doctor
+heart disease
+heart surgery
+heart attack
+heart medication
+diabetes diet
+diabetes exercise
+diabetes medication
+lung treatment
+lung disease
+asthma treatment
+pediatric fever
+pediatric nutrition
+blood sugar monitoring
+blood pressure control
